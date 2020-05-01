@@ -1,0 +1,29 @@
+{
+  "name": "rns-bot",
+  "version": "1.0.0",
+  "description": "RNS Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilanolkies/rns-bot.git"
+  },
+  "keywords": [
+    "rns",
+    "telegram",
+    "bot",
+    "api",
+    "rsk"
+  ],
+  "author": "ilanolkies",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilanolkies/rns-bot/issues"
+  },
+  "homepage": "https://github.com/ilanolkies/rns-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  }
+}
