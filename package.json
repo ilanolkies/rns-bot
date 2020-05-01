@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/ilanolkies/rns-bot#readme",
   "dependencies": {
-    "node-telegram-bot-api": "^0.40.0"
+    "@rsksmart/rns": "^1.5.0",
+    "node-telegram-bot-api": "^0.40.0",
+    "web3": "^1.2.7"
   }
 }
